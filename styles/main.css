@@ -45,7 +45,7 @@ header .presentation span {
 
 body {
   height: 95vh;
-  background-color: #ffffffc9;
+  background-color: #282a36;
   display: -ms-grid;
   display: grid;
   place-items: center;
@@ -139,15 +139,15 @@ body {
 }
 
 .card:nth-child(2):before {
-  background-image: url(https://images.unsplash.com/photo-1586374579358-9d19d632b6df?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+  background-image: url(https://images.unsplash.com/photo-1582547704707-10eafd5d4a37?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
 }
 
 .card:nth-child(3):before {
-  background-image: url(https://images.unsplash.com/photo-1455274111113-575d080ce8cd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+  background-image: url(https://images.unsplash.com/photo-1505664063603-28e48ca204eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
 }
 
 .card:nth-child(4):before {
-  background-image: url(https://images.unsplash.com/photo-1587317027973-cb15388ccfaf?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+  background-image: url(https://images.unsplash.com/photo-1562177257-977b3bd4d7ec?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
 }
 
 .card .buttons {
