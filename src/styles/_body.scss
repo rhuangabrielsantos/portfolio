@@ -1,0 +1,19 @@
+$imageIds: "1548695151-ac40f371b3f4", "1582547704707-10eafd5d4a37",
+  "1505664063603-28e48ca204eb", "1562177257-977b3bd4d7ec";
+
+.page-content {
+  display: grid;
+  grid-gap: 1rem;
+  padding: 1rem;
+  max-width: 1024px;
+  margin: 3rem;
+  font-family: var(--font-sans);
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $bp-lg) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
